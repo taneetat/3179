@@ -1,23 +1,199 @@
-Sector,Indicator,2015,2016,2017,2018,2019,2020,2021,2022,2023
-Buildings,GDP (MYR million),30606,31746,32525,31160,29540,24764,22958,24824,25033
-Civil engineering,GDP (MYR million),15373,17791,20253,23354,24823,17836,14590,14452,16548
-Crops,GDP (MYR million),63852,59748,66092,65842,67610,66681,65857,66678,67704
-Crude oil and condensate,GDP (MYR million),46526,46821,45807,45430,42460,38430,36410,36283,36155
-"Electrical, electronic and optical products",GDP (MYR million),70245,75556,81217,86317,89133,91362,104745,119614,117708
-"Finance and insurance, real estate and business services",GDP (MYR million),130064,135688,143664,152834,162121,154867,159192,172189,175453
-Fishing,GDP (MYR million),12181,12433,12325,12225,12122,11286,11250,11555,11608
-Forestry and logging,GDP (MYR million),8810,8642,7266,6986,6382,5140,5241,5271,4799
-Government services,GDP (MYR million),99783,104620,109694,114891,118804,124699,131482,137435,143868
-Livestock,GDP (MYR million),12694,13154,13827,14584,15459,16002,16495,16579,16701
-Natural gas ,GDP (MYR million),49119,50607,51492,49322,50643,45896,49166,51748,52063
-"Non-metallic mineral products, base metals and fabricated metal products",GDP (MYR million),31572,32907,34517,36224,37716,32797,34101,36689,38585
-"Oils and fats from vegetables & animals, processed foods, beverages and tobacco products",GDP (MYR million),32738,33679,37019,38287,39629,38590,39272,41917,44150
-Other mining & quarrying and supporting services,GDP (MYR million),7414,7940,8539,8806,9784,8554,8142,8969,9295
-Other services,GDP (MYR million),57724,60538,63648,67170,70943,63796,61910,68570,72886
-"Petroleum, chemical, rubber and plastic products",GDP (MYR million),78307,81717,84999,88418,90982,90084,101787,102892,102067
-Specialised construction activities,GDP (MYR million),9402,9972,10743,11681,12089,11015,13291,14151,15077
-"Textiles, clothing and leather products",GDP (MYR million),4923,5264,5682,5926,6252,5444,5837,6171,6244
-"Transportation equipment, other manufacturing and repair",GDP (MYR million),30738,30325,31942,33859,36027,34040,34253,38950,39905
-"Utilities, transportation & storage and information & communication",GDP (MYR million),136070,145176,154721,165427,176184,169232,176224,194789,207021
-"Wholesale and retail trade, food & beverage and accommodation",GDP (MYR million),220242,234538,251632,272668,292526,265100,266308,309740,328677
-"Wood products, furniture, paper products and printing",GDP (MYR million),13858,14452,15088,15809,16545,15289,16728,17889,18035
+Sector,Indicator,Year,GDP(MYR million)
+Buildings,GDP (MYR million),2015,30606
+Civil engineering,GDP (MYR million),2015,15373
+Crops,GDP (MYR million),2015,63852
+Crude oil and condensate,GDP (MYR million),2015,46526
+"Electrical, electronic and optical products",GDP (MYR million),2015,70245
+"Finance and insurance, real estate and business services",GDP (MYR million),2015,130064
+Fishing,GDP (MYR million),2015,12181
+Forestry and logging,GDP (MYR million),2015,8810
+Government services,GDP (MYR million),2015,99783
+Livestock,GDP (MYR million),2015,12694
+Natural gas ,GDP (MYR million),2015,49119
+"Non-metallic mineral products, base metals and fabricated metal products",GDP (MYR million),2015,31572
+"Oils and fats from vegetables & animals, processed foods, beverages and tobacco products",GDP (MYR million),2015,32738
+Other mining & quarrying and supporting services,GDP (MYR million),2015,7414
+Other services,GDP (MYR million),2015,57724
+"Petroleum, chemical, rubber and plastic products",GDP (MYR million),2015,78307
+Specialised construction activities,GDP (MYR million),2015,9402
+"Textiles, clothing and leather products",GDP (MYR million),2015,4923
+"Transportation equipment, other manufacturing and repair",GDP (MYR million),2015,30738
+"Utilities, transportation & storage and information & communication",GDP (MYR million),2015,136070
+"Wholesale and retail trade, food & beverage and accommodation",GDP (MYR million),2015,220242
+"Wood products, furniture, paper products and printing",GDP (MYR million),2015,13858
+Buildings,GDP (MYR million),2016,31746
+Civil engineering,GDP (MYR million),2016,17791
+Crops,GDP (MYR million),2016,59748
+Crude oil and condensate,GDP (MYR million),2016,46821
+"Electrical, electronic and optical products",GDP (MYR million),2016,75556
+"Finance and insurance, real estate and business services",GDP (MYR million),2016,135688
+Fishing,GDP (MYR million),2016,12433
+Forestry and logging,GDP (MYR million),2016,8642
+Government services,GDP (MYR million),2016,104620
+Livestock,GDP (MYR million),2016,13154
+Natural gas ,GDP (MYR million),2016,50607
+"Non-metallic mineral products, base metals and fabricated metal products",GDP (MYR million),2016,32907
+"Oils and fats from vegetables & animals, processed foods, beverages and tobacco products",GDP (MYR million),2016,33679
+Other mining & quarrying and supporting services,GDP (MYR million),2016,7940
+Other services,GDP (MYR million),2016,60538
+"Petroleum, chemical, rubber and plastic products",GDP (MYR million),2016,81717
+Specialised construction activities,GDP (MYR million),2016,9972
+"Textiles, clothing and leather products",GDP (MYR million),2016,5264
+"Transportation equipment, other manufacturing and repair",GDP (MYR million),2016,30325
+"Utilities, transportation & storage and information & communication",GDP (MYR million),2016,145176
+"Wholesale and retail trade, food & beverage and accommodation",GDP (MYR million),2016,234538
+"Wood products, furniture, paper products and printing",GDP (MYR million),2016,14452
+Buildings,GDP (MYR million),2017,32525
+Civil engineering,GDP (MYR million),2017,20253
+Crops,GDP (MYR million),2017,66092
+Crude oil and condensate,GDP (MYR million),2017,45807
+"Electrical, electronic and optical products",GDP (MYR million),2017,81217
+"Finance and insurance, real estate and business services",GDP (MYR million),2017,143664
+Fishing,GDP (MYR million),2017,12325
+Forestry and logging,GDP (MYR million),2017,7266
+Government services,GDP (MYR million),2017,109694
+Livestock,GDP (MYR million),2017,13827
+Natural gas ,GDP (MYR million),2017,51492
+"Non-metallic mineral products, base metals and fabricated metal products",GDP (MYR million),2017,34517
+"Oils and fats from vegetables & animals, processed foods, beverages and tobacco products",GDP (MYR million),2017,37019
+Other mining & quarrying and supporting services,GDP (MYR million),2017,8539
+Other services,GDP (MYR million),2017,63648
+"Petroleum, chemical, rubber and plastic products",GDP (MYR million),2017,84999
+Specialised construction activities,GDP (MYR million),2017,10743
+"Textiles, clothing and leather products",GDP (MYR million),2017,5682
+"Transportation equipment, other manufacturing and repair",GDP (MYR million),2017,31942
+"Utilities, transportation & storage and information & communication",GDP (MYR million),2017,154721
+"Wholesale and retail trade, food & beverage and accommodation",GDP (MYR million),2017,251632
+"Wood products, furniture, paper products and printing",GDP (MYR million),2017,15088
+Buildings,GDP (MYR million),2018,31160
+Civil engineering,GDP (MYR million),2018,23354
+Crops,GDP (MYR million),2018,65842
+Crude oil and condensate,GDP (MYR million),2018,45430
+"Electrical, electronic and optical products",GDP (MYR million),2018,86317
+"Finance and insurance, real estate and business services",GDP (MYR million),2018,152834
+Fishing,GDP (MYR million),2018,12225
+Forestry and logging,GDP (MYR million),2018,6986
+Government services,GDP (MYR million),2018,114891
+Livestock,GDP (MYR million),2018,14584
+Natural gas ,GDP (MYR million),2018,49322
+"Non-metallic mineral products, base metals and fabricated metal products",GDP (MYR million),2018,36224
+"Oils and fats from vegetables & animals, processed foods, beverages and tobacco products",GDP (MYR million),2018,38287
+Other mining & quarrying and supporting services,GDP (MYR million),2018,8806
+Other services,GDP (MYR million),2018,67170
+"Petroleum, chemical, rubber and plastic products",GDP (MYR million),2018,88418
+Specialised construction activities,GDP (MYR million),2018,11681
+"Textiles, clothing and leather products",GDP (MYR million),2018,5926
+"Transportation equipment, other manufacturing and repair",GDP (MYR million),2018,33859
+"Utilities, transportation & storage and information & communication",GDP (MYR million),2018,165427
+"Wholesale and retail trade, food & beverage and accommodation",GDP (MYR million),2018,272668
+"Wood products, furniture, paper products and printing",GDP (MYR million),2018,15809
+Buildings,GDP (MYR million),2019,29540
+Civil engineering,GDP (MYR million),2019,24823
+Crops,GDP (MYR million),2019,67610
+Crude oil and condensate,GDP (MYR million),2019,42460
+"Electrical, electronic and optical products",GDP (MYR million),2019,89133
+"Finance and insurance, real estate and business services",GDP (MYR million),2019,162121
+Fishing,GDP (MYR million),2019,12122
+Forestry and logging,GDP (MYR million),2019,6382
+Government services,GDP (MYR million),2019,118804
+Livestock,GDP (MYR million),2019,15459
+Natural gas ,GDP (MYR million),2019,50643
+"Non-metallic mineral products, base metals and fabricated metal products",GDP (MYR million),2019,37716
+"Oils and fats from vegetables & animals, processed foods, beverages and tobacco products",GDP (MYR million),2019,39629
+Other mining & quarrying and supporting services,GDP (MYR million),2019,9784
+Other services,GDP (MYR million),2019,70943
+"Petroleum, chemical, rubber and plastic products",GDP (MYR million),2019,90982
+Specialised construction activities,GDP (MYR million),2019,12089
+"Textiles, clothing and leather products",GDP (MYR million),2019,6252
+"Transportation equipment, other manufacturing and repair",GDP (MYR million),2019,36027
+"Utilities, transportation & storage and information & communication",GDP (MYR million),2019,176184
+"Wholesale and retail trade, food & beverage and accommodation",GDP (MYR million),2019,292526
+"Wood products, furniture, paper products and printing",GDP (MYR million),2019,16545
+Buildings,GDP (MYR million),2020,24764
+Civil engineering,GDP (MYR million),2020,17836
+Crops,GDP (MYR million),2020,66681
+Crude oil and condensate,GDP (MYR million),2020,38430
+"Electrical, electronic and optical products",GDP (MYR million),2020,91362
+"Finance and insurance, real estate and business services",GDP (MYR million),2020,154867
+Fishing,GDP (MYR million),2020,11286
+Forestry and logging,GDP (MYR million),2020,5140
+Government services,GDP (MYR million),2020,124699
+Livestock,GDP (MYR million),2020,16002
+Natural gas ,GDP (MYR million),2020,45896
+"Non-metallic mineral products, base metals and fabricated metal products",GDP (MYR million),2020,32797
+"Oils and fats from vegetables & animals, processed foods, beverages and tobacco products",GDP (MYR million),2020,38590
+Other mining & quarrying and supporting services,GDP (MYR million),2020,8554
+Other services,GDP (MYR million),2020,63796
+"Petroleum, chemical, rubber and plastic products",GDP (MYR million),2020,90084
+Specialised construction activities,GDP (MYR million),2020,11015
+"Textiles, clothing and leather products",GDP (MYR million),2020,5444
+"Transportation equipment, other manufacturing and repair",GDP (MYR million),2020,34040
+"Utilities, transportation & storage and information & communication",GDP (MYR million),2020,169232
+"Wholesale and retail trade, food & beverage and accommodation",GDP (MYR million),2020,265100
+"Wood products, furniture, paper products and printing",GDP (MYR million),2020,15289
+Buildings,GDP (MYR million),2021,22958
+Civil engineering,GDP (MYR million),2021,14590
+Crops,GDP (MYR million),2021,65857
+Crude oil and condensate,GDP (MYR million),2021,36410
+"Electrical, electronic and optical products",GDP (MYR million),2021,104745
+"Finance and insurance, real estate and business services",GDP (MYR million),2021,159192
+Fishing,GDP (MYR million),2021,11250
+Forestry and logging,GDP (MYR million),2021,5241
+Government services,GDP (MYR million),2021,131482
+Livestock,GDP (MYR million),2021,16495
+Natural gas ,GDP (MYR million),2021,49166
+"Non-metallic mineral products, base metals and fabricated metal products",GDP (MYR million),2021,34101
+"Oils and fats from vegetables & animals, processed foods, beverages and tobacco products",GDP (MYR million),2021,39272
+Other mining & quarrying and supporting services,GDP (MYR million),2021,8142
+Other services,GDP (MYR million),2021,61910
+"Petroleum, chemical, rubber and plastic products",GDP (MYR million),2021,101787
+Specialised construction activities,GDP (MYR million),2021,13291
+"Textiles, clothing and leather products",GDP (MYR million),2021,5837
+"Transportation equipment, other manufacturing and repair",GDP (MYR million),2021,34253
+"Utilities, transportation & storage and information & communication",GDP (MYR million),2021,176224
+"Wholesale and retail trade, food & beverage and accommodation",GDP (MYR million),2021,266308
+"Wood products, furniture, paper products and printing",GDP (MYR million),2021,16728
+Buildings,GDP (MYR million),2022,24824
+Civil engineering,GDP (MYR million),2022,14452
+Crops,GDP (MYR million),2022,66678
+Crude oil and condensate,GDP (MYR million),2022,36283
+"Electrical, electronic and optical products",GDP (MYR million),2022,119614
+"Finance and insurance, real estate and business services",GDP (MYR million),2022,172189
+Fishing,GDP (MYR million),2022,11555
+Forestry and logging,GDP (MYR million),2022,5271
+Government services,GDP (MYR million),2022,137435
+Livestock,GDP (MYR million),2022,16579
+Natural gas ,GDP (MYR million),2022,51748
+"Non-metallic mineral products, base metals and fabricated metal products",GDP (MYR million),2022,36689
+"Oils and fats from vegetables & animals, processed foods, beverages and tobacco products",GDP (MYR million),2022,41917
+Other mining & quarrying and supporting services,GDP (MYR million),2022,8969
+Other services,GDP (MYR million),2022,68570
+"Petroleum, chemical, rubber and plastic products",GDP (MYR million),2022,102892
+Specialised construction activities,GDP (MYR million),2022,14151
+"Textiles, clothing and leather products",GDP (MYR million),2022,6171
+"Transportation equipment, other manufacturing and repair",GDP (MYR million),2022,38950
+"Utilities, transportation & storage and information & communication",GDP (MYR million),2022,194789
+"Wholesale and retail trade, food & beverage and accommodation",GDP (MYR million),2022,309740
+"Wood products, furniture, paper products and printing",GDP (MYR million),2022,17889
+Buildings,GDP (MYR million),2023,25033
+Civil engineering,GDP (MYR million),2023,16548
+Crops,GDP (MYR million),2023,67704
+Crude oil and condensate,GDP (MYR million),2023,36155
+"Electrical, electronic and optical products",GDP (MYR million),2023,117708
+"Finance and insurance, real estate and business services",GDP (MYR million),2023,175453
+Fishing,GDP (MYR million),2023,11608
+Forestry and logging,GDP (MYR million),2023,4799
+Government services,GDP (MYR million),2023,143868
+Livestock,GDP (MYR million),2023,16701
+Natural gas ,GDP (MYR million),2023,52063
+"Non-metallic mineral products, base metals and fabricated metal products",GDP (MYR million),2023,38585
+"Oils and fats from vegetables & animals, processed foods, beverages and tobacco products",GDP (MYR million),2023,44150
+Other mining & quarrying and supporting services,GDP (MYR million),2023,9295
+Other services,GDP (MYR million),2023,72886
+"Petroleum, chemical, rubber and plastic products",GDP (MYR million),2023,102067
+Specialised construction activities,GDP (MYR million),2023,15077
+"Textiles, clothing and leather products",GDP (MYR million),2023,6244
+"Transportation equipment, other manufacturing and repair",GDP (MYR million),2023,39905
+"Utilities, transportation & storage and information & communication",GDP (MYR million),2023,207021
+"Wholesale and retail trade, food & beverage and accommodation",GDP (MYR million),2023,328677
+"Wood products, furniture, paper products and printing",GDP (MYR million),2023,18035
